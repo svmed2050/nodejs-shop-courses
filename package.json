@@ -30,7 +30,8 @@
 		"nodemailer-sendgrid-transport": "^0.2.0",
 		"nodemailer-sendinblue-transport": "^2.0.1",
 		"sib-api-v3-sdk": "^8.5.0",
-		"uuid": "^9.0.0"
+		"uuid": "^9.0.0",
+		"yarn": "^1.22.19"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.21"
