@@ -8,7 +8,7 @@
 		"dev": "nodemon index.js"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Pavel <pavelsergienko7@gmail.com>",
 	"license": "ISC",
 	"dependencies": {
 		"@handlebars/allow-prototype-access": "^1.0.5",
@@ -35,5 +35,6 @@
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.21"
-	}
+	},
+	"repository": "https://github.com/svmed2050/nodejs-shop-courses.git"
 }
